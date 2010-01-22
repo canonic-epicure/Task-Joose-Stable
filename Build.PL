@@ -2,13 +2,11 @@ use inc::Module::JSAN::DSL;
 
 name            Task.Joose.Stable
 
-version         0.01
+version         3.04
 author          'Nickolay (SamuraiJack) Platonov <root@symbie.org>'
 
-abstract        'Some clever yet compact description'
+abstract        'Joose distribution, required only for bootstraping purposes'
 license         lgpl
 
-
-requires        Joose       3.01
 
 docs_markup     mmd
