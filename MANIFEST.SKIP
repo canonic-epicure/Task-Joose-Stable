@@ -54,5 +54,4 @@
 ^\.gitignore\b
 ^TODO\b^
 
-^doc\b
 MYMETA.yml$

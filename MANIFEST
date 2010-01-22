@@ -1,4 +1,6 @@
 Build.PL
+doc/html/Task/Joose/Stable.html
+doc/mmd/Task/Joose/Stable.txt
 inc/Module/Build/Functions.pm
 inc/Module/Build/Functions/DSL.pm
 inc/Module/Build/JSAN/Installable.pm

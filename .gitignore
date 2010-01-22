@@ -8,3 +8,4 @@ Makefile.PL
 /doc/*
 /inc/*
 /META.json
+/Task.Joose.Stable-*.tar.gz
