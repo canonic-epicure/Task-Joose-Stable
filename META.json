@@ -1,0 +1,23 @@
+{
+   "resources" : {
+      "license" : "http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt"
+   },
+   "meta-spec" : {
+      "version" : "1.4",
+      "url" : "http://module-build.sourceforge.net/META-spec-v1.4.html"
+   },
+   "generated_by" : "Module::Build version 0.3601",
+   "version" : "0.01",
+   "name" : "Task.Joose.Stable",
+   "author" : [
+      "Nickolay (SamuraiJack) Platonov <root@symbie.org>"
+   ],
+   "license" : "lgpl",
+   "requires" : {
+      "Joose" : "3.01"
+   },
+   "abstract" : "Some clever yet compact description",
+   "configure_requires" : {
+      "Module::Build" : "0.36"
+   }
+}
