@@ -52,4 +52,7 @@
 
 ^\.externalToolBuilders\b
 ^\.gitignore\b
-^TODO\b
+^TODO\b^
+
+^doc\b
+MYMETA.yml$

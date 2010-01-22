@@ -1,59 +1,27 @@
 Name
 ====
 
+Task.Joose.Stable - Stable Joose distribution, required only for bootstraping purposes.
 
-Task.Joose.Stable - Some clever yet compact description
-
-
-SYNOPSIS
-========
-
-        Class("Task.Joose.Stable", {
-        
-        })
-        
-        var instance = new Task.Joose.Stable({
-        })
-        
 
 
 DESCRIPTION
 ===========
 
-`Task.Joose.Stable` is a stub for JSAN modules.
+Since Joose testing tool (Test.Run) is written in Joose itself, the "chicken and egg" problem arise.
 
+`Task.Joose.Stable` is supposed to solve it. It just contain the distribution of Joose, which assumes to be "stable".
 
+Some tools depends on this package instead of main package - Joose.  
 
-EXAMPLES
-========
-
-
-GETTING HELP
-============
-
-This extension is supported via github issues tracker: [http://github.com/SamuraiJack/Task-Joose-Stable/issues](http://github.com/SamuraiJack/Task-Joose-Stable/issues)
-
-For general Joose questions you can also visit #joose on irc.freenode.org. 
 
 
 SEE ALSO
 ========
 
-[http://github.com/SamuraiJack/Task-Joose-Stable/](http://github.com/SamuraiJack/Task-Joose-Stable/)
-
-Web page of this extensions
-
 [http://openjsan.org/go/?l=Joose](http://openjsan.org/go/?l=Joose)
 
 General documentation for Joose
-
-
-BUGS
-====
-
-All complex software has bugs lurking in it, and this module is no exception.
-
-Please report any bugs through the web interface at [http://github.com/SamuraiJack/Task-Joose-Stable/issues](http://github.com/SamuraiJack/Task-Joose-Stable/issues)
 
 
 

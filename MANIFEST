@@ -1,0 +1,13 @@
+Build.PL
+inc/Module/Build/Functions.pm
+inc/Module/Build/Functions/DSL.pm
+inc/Module/Build/JSAN/Installable.pm
+inc/Module/JSAN.pm
+inc/Module/JSAN/DSL.pm
+INSTALL
+lib/Task/Joose/Stable.js
+lib/Task/Joose/Stable.mmd
+MANIFEST			This list of files
+META.json
+README.md
+TODO
