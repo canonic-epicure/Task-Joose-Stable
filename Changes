@@ -2,6 +2,8 @@ Release history for JooseX.Class.SimpleConstructor
 
 {{$NEXT}}
 
+3.6.0     2010-10-27 17:45
+
         - re-release only for `npm`
 
 3.05      2010-07-05 15:03
