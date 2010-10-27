@@ -19,7 +19,7 @@ Some tools depends on this package instead of the main package - Joose.
 SEE ALSO
 ========
 
-<http://Joose.github.com/Joose/> - General documentation for Joose
+<http://joose.it/> - General documentation for Joose
 
 
 
