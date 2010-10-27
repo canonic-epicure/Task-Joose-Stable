@@ -19,10 +19,7 @@ Some tools depends on this package instead of the main package - Joose.
 SEE ALSO
 ========
 
-<http://openjsan.org/go/?l=Joose>
-
-General documentation for Joose
-
+<http://joose.it> - Joose project web-site
 
 
 AUTHORS
