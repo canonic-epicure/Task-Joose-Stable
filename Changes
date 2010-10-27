@@ -2,26 +2,8 @@ Release history for JooseX.Class.SimpleConstructor
 
 {{$NEXT}}
 
-3.6.5     2010-10-27 20:41
-
         - testing infrastructure release, no functional changes
         
-v3.6.4    2010-10-27 20:25
-
-        - testing infrastructure release, no functional changes
-
-v3.6.3    2010-10-27 20:16
-
-        - testing infrastructure release, no functional changes
-
-v3.6.2    2010-10-27 20:07
-
-        - testing infrastructure release, no functional changes
-
-v3.6.1    2010-10-27 19:45
-
-        - testing infrastructure release, no functional changes
-
 3.6.0     2010-10-27 17:45
 
         - re-release only for `npm`
