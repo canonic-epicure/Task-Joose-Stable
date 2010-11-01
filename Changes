@@ -2,6 +2,8 @@ Release history for Task.Joose.Stable
 
 {{$NEXT}}
 
+        - do not mess with the package version 
+
 3.14.0    2010-11-01 10:50
         
         - "stable" version is now 3.14
