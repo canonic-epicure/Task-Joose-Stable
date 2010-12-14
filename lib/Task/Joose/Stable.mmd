@@ -1,5 +1,3 @@
-If links in this document aren't work correctly, [try to open it from here](http://samuraijack.github.com/Task-Joose-Stable)
-
 Name
 ====
 
@@ -21,9 +19,11 @@ Some tools depends on this package instead of the main package - Joose.
 SEE ALSO
 ========
 
-<http://joose.it/> - General documentation for Joose
+Joose web-site: <http://joose.it/> 
 
+Mailing list: <http://groups.google.com/group/joose-js>
 
+IRC channel: [#joose](http://webchat.freenode.net/?randomnick=1&channels=joose&prompt=1) on freenode
 
 AUTHORS
 =======
