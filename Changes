@@ -1,6 +1,8 @@
 Release history for Task.Joose.Stable
 
 {{$NEXT}}
+
+3.14.3    2011-01-12 18:37
         
         - re-release just to pick up the new markdown css styles, no functional changes
         
